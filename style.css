@@ -1,0 +1,51 @@
+.nav {
+    display: flex;
+    background-color: darkblue;
+    justify-content: space-between;
+}
+
+.lieferung {
+    display: flex;
+    align-items: center;
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+}
+
+.ein {
+    display: flex;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    background-color: rgb(20, 9, 104);
+    padding: 10px;
+}
+
+.fotos {
+    display: flex;
+    border: 2px;
+}
+
+.f1 {
+    width: 300px;
+    height: 250px;
+}
+
+.f2 {
+    width: 300px;
+    height: 250px;
+}
+
+.f3 {
+    width: 300px;
+    height: 250px;
+}
+
+.f4 {
+    width: 300px;
+    height: 250px;
+}
