@@ -1,0 +1,17 @@
+.nav {
+    display: flex;
+    background-color: darkblue;
+    justify-content: space-between;
+    .lieferung {
+        display: flex;
+        align-items: center;
+    }
+    .input {
+        display: flex;
+        justify-content: center;
+    }
+    .ein {
+        display: flex;
+        align-items: center;
+    }
+}
